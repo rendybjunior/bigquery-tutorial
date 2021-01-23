@@ -1,3 +1,8 @@
+/*
+    Pre-requisites:
+    - pastikan project-mu sudah punya dataset bernama `demo`, atau ganti nama dataset sesuai nama dataset-mu
+*/
+
 -- Create table
 CREATE OR REPLACE TABLE demo.demo_repeated_fields (
     waktu_transaksi TIMESTAMP,
